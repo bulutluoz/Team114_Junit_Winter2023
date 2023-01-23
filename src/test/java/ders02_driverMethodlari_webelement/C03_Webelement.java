@@ -1,4 +1,4 @@
-package ders02_driverNavigateMethodlari;
+package ders02_driverMethodlari_webelement;
 
 public class C03_Webelement {
     public static void main(String[] args) {

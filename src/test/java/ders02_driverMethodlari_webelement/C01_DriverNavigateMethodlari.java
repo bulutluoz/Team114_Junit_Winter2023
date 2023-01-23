@@ -1,4 +1,4 @@
-package ders02_driverNavigateMethodlari;
+package ders02_driverMethodlari_webelement;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
