@@ -18,10 +18,13 @@ public class C04_findElementMethodu {
 
         /*
             bir webelementi kullanabilmek icin driver'a yerini tarif etmemiz lazim
-            adres bilgisi locator,
+            adres bilgisi locator'lar ile veriyoruz
 
             driver'in, adresi verilen webelemente gidip onu locate etmesi icin ise
-            findElement(Locator) kullanilir
+            findElement(By Locator) kullanilir
+
+            Locate edilen elementi tekrar kullanabilmek icin
+            bir WebElement objesi olusturup, o objeye atama yapariz
          */
 
         driver.get("https://wwww.amazon.com");
