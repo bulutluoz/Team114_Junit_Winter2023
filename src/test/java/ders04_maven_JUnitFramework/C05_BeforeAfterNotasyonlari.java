@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C04_BeforeAfterNotasyonlari {
+public class C05_BeforeAfterNotasyonlari {
 
     // 3 farkli test methodu olusturun, bu method'larda
     // amazon, wisequarter ve youtube anasayfalarina gidip

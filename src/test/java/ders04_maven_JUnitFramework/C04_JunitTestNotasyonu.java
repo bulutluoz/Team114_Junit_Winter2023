@@ -2,7 +2,7 @@ package ders04_maven_JUnitFramework;
 
 import org.junit.Test;
 
-public class C05_JunitTestNotasyonu {
+public class C04_JunitTestNotasyonu {
 
     // bir class icerisinde 3 test olusturun
     // bu testleri istersek hep birlikte
