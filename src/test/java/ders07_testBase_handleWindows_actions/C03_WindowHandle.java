@@ -78,8 +78,6 @@ public class C03_WindowHandle extends TestBaseMethod {
 
         Assert.assertEquals(expectedUrl,actualUrl);
 
-
-
         Thread.sleep(5000);
     }
 
