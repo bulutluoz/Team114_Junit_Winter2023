@@ -12,7 +12,7 @@ import java.time.Duration;
 
 public class TestBaseMethod {
 
-    protected WebDriver driver;
+    protected static WebDriver driver;
     @Before
     public void setup(){
         WebDriverManager.chromedriver().setup();
